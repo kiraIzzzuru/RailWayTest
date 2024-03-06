@@ -7,4 +7,12 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\Projects\WPF\RailWayTest\RailWay\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\Projects\WPF\RailWayTest\RailWay\.editorconfig" />
+  </ItemGroup>
+
 </Project>
